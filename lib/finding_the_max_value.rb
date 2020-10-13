@@ -1,3 +1,3 @@
 def find_max_value(array)
-  array.find_max_value
+  puts array.sort.pop
 end
